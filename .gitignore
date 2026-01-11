@@ -1,0 +1,10 @@
+# Ignore compiled files
+*.exe
+*.out
+*.o
+*.app
+
+# Ignore system files
+.DS_Store
+.vscode/
+__pycache__/
